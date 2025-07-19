@@ -29,7 +29,7 @@ Criei uma base de dados para um sistema de e-commerce com os seguintes requisito
 
 ## Script SQL
 
-O script com **criação de tabelas** e **inserção de dados de exemplo** está disponível no arquivo:
+O script com **criação de tabelas e inserção de dados de exemplo** está disponível no arquivo [`ecommerce_modelo_logico.sql`](./ecommerce_modelo_logico.sql).
 
 ---
 
