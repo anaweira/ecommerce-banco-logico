@@ -4,7 +4,7 @@ Este projeto tem como objetivo representar a modelagem lógica de um banco de da
 
 ## Cenário
 
-Criamos uma base de dados para um sistema de e-commerce com os seguintes requisitos:
+Criei uma base de dados para um sistema de e-commerce com os seguintes requisitos:
 
 - **Cliente PJ e PF**: Uma conta pode ser Pessoa Física (PF) ou Pessoa Jurídica (PJ), mas não pode ser ambas.
 - **Formas de Pagamento**: Um cliente pode ter mais de uma forma de pagamento cadastrada.
